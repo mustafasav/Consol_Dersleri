@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders01_MerhabaDunya", "Ders01_MerhabaDunya\Ders01_MerhabaDunya.csproj", "{824DD255-EB74-4FF8-AC7F-A3930DA8C533}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders02_Degiskenler", "Ders02_Degiskenler\Ders02_Degiskenler.csproj", "{316B5E78-01EC-4CEC-9CC9-10BB059407CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{824DD255-EB74-4FF8-AC7F-A3930DA8C533}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{824DD255-EB74-4FF8-AC7F-A3930DA8C533}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{824DD255-EB74-4FF8-AC7F-A3930DA8C533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316B5E78-01EC-4CEC-9CC9-10BB059407CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{316B5E78-01EC-4CEC-9CC9-10BB059407CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{316B5E78-01EC-4CEC-9CC9-10BB059407CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{316B5E78-01EC-4CEC-9CC9-10BB059407CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
